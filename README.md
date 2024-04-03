@@ -1,2 +1,2 @@
 # Python-Application
-通識 Python 應用概論 期中期末作業 附上解說code影片  
+Python 利用autogui讓電腦自己辨識遊戲中的圖像方塊並且自己完成連續消除三個同樣方塊 
